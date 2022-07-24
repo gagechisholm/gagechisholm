@@ -1,8 +1,8 @@
-![Header](./[![github-header-image](https://user-images.githubusercontent.com/108600650/180630047-eb163bd1-a17f-43fa-8056-5ceca8e5f4dd.png)])
-<h1>- 🔭 I’m currently working on Python Flask Web Development</h1>
-<h2>- 🌱 I’m currently learning C#</h2>
-<h2>- 👯 I’m looking to collaborate on anything</h2>
-<h2>- 🤔 I’m looking for help with everything</h2>
+![github-header-image](https://user-images.githubusercontent.com/108600650/180630129-71a77dfc-5e45-4a4f-b0aa-e263f2f86cc3.png)
+<h4>- 🔭 I’m currently working on Python Flask Web Development</h1>
+<h5>- 🌱 I’m currently learning C#</h2>
+<h5>- 👯 I’m looking to collaborate on anything</h2>
+<h5>- 🤔 I’m looking for help with everything</h2>
 
 <a href="https://www.instagram.com/gagechisholm/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
