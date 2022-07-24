@@ -1,4 +1,4 @@
-[![MasterHead](https://ibb.co/ZdRRxxF)](your GitHub link)
+[![Here](https://ibb.co/ZdRRxxF)](https://github.com/gagechisholm)
 
 - 🔭 I’m currently working on Python Flask Web Development
 - 🌱 I’m currently learning C#
