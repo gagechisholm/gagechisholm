@@ -1,6 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/108600650/180630129-71a77dfc-5e45-4a4f-b0aa-e263f2f86cc3.png)
 <h4>- 🔭 I’m currently working on Python Flask Web Development</h1>
-<h5>- 🌱 I’m currently learning C#</h2>
+<h5>- 🌱 I’m currently learning Python</h2>
 <h5>- 👯 I’m looking to collaborate on anything</h2>
 <h5>- 🤔 I’m looking for help with everything</h2>
 
