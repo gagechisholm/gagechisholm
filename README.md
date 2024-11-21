@@ -46,6 +46,14 @@ Here are some of my projects:
      - Sorts Reports by Grade
      - Organizes Reports
 
+### 3. **[Auto_Roster](https://github.com/gagechisholm/college_score_organizer.git)**
+   - **Description**: Basic Django WebApp for automating monthly duty rosters
+   - **Tech Stack**: Python, Django, HTML
+   - **Features**:
+     - Import Morning Report from Excel
+     - Works around days individuals cannot stand duty
+     - Will not double assign duty without giving 2 day period in between
+
 ---
 
 ## 📊 GitHub Stats
