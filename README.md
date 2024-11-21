@@ -20,10 +20,9 @@ I'm proficient in the following technologies and tools:
 
 ## 🌱 What I'm currently learning
 
-- How to use github
 - Django and building REST APIs
 - Vue.js
-- EVERYTHING
+- Always learning random stuff
 
 ---
 
