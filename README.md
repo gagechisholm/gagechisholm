@@ -51,7 +51,7 @@ Here are some of my projects:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[gagechisholm]&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gagechisholm&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
