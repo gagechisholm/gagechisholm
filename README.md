@@ -1,6 +1,5 @@
-<h4>- 🔭 I’m currently working on Python DJango Development</h4>
-<h5>- 👯 I’m looking to collaborate on anything</h5>
-<h5>- 🤔 I’m looking for help with everything</h5>
+<h1> I just do this for fun yo :) </h1>
+<h2> See something - Say something </h2>
 
 <a href="https://www.instagram.com/gagechisholm/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
