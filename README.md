@@ -38,7 +38,15 @@ Here are some of my projects:
      - Track Post Count/Pictures
      - Track Tagged Posts
 
-### 2. **[college_score_organizer](https://github.com/gagechisholm/college_score_organizer.git)**
+### 2. **[Gages-Stock-Bot](https://github.com/gagechisholm/Gages-Stock-Bot.git)**
+   - **Description**: Discord Bot that tracks stock prices
+   - **Tech Stack**: Python
+   - **Features**:
+     - Alerts chat when stock raises or drops 5%
+     - Users can add stocks to tracking list in discord using commands
+     - Users can ask for the current price of any stock
+
+### 3. **[college_score_organizer](https://github.com/gagechisholm/college_score_organizer.git)**
    - **Description**: Basic local app to organizies grade reports from Cengage training platform
    - **Tech Stack**: Python, Tkinter
    - **Features**:
@@ -46,7 +54,7 @@ Here are some of my projects:
      - Sorts Reports by Grade
      - Organizes Reports
 
-### 3. **[Auto_Roster](https://github.com/gagechisholm/college_score_organizer.git)**
+### 4. **[Auto_Roster](https://github.com/gagechisholm/college_score_organizer.git)**
    - **Description**: Basic Django WebApp for automating monthly duty rosters
    - **Tech Stack**: Python, Django, HTML
    - **Features**:
