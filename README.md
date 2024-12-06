@@ -42,8 +42,8 @@ Here are some of my projects:
    - **Description**: Discord Bot that tracks stock prices
    - **Tech Stack**: Python
    - **Features**:
-     - Alerts chat when stock raises or drops 5%
-     - Users can add stocks to tracking list in discord using commands
+     - Users can set alerts on chat when stock raises or drops by certain %
+     - Users can add/remove/view stocks from tracking list in discord
      - Users can ask for the current price of any stock
 
 ### 3. **[college_score_organizer](https://github.com/gagechisholm/college_score_organizer.git)**
