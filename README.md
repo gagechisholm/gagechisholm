@@ -40,11 +40,12 @@ Here are some of my projects:
 
 ### 2. **[Gages-Stock-Bot](https://github.com/gagechisholm/Gages-Stock-Bot.git)**
    - **Description**: Discord Bot that tracks stock prices
-   - **Tech Stack**: Python
+   - **Tech Stack**: Python, Flask
    - **Features**:
      - Users can set alerts on chat when stock raises or drops by certain %
      - Users can add/remove/view stocks from tracking list in discord
      - Users can ask for the current price of any stock
+     - Front end Flask server log ready to deploy
 
 ### 3. **[college_score_organizer](https://github.com/gagechisholm/college_score_organizer.git)**
    - **Description**: Basic local app to organizies grade reports from Cengage training platform
@@ -56,7 +57,7 @@ Here are some of my projects:
 
 ### 4. **[Auto_Roster](https://github.com/gagechisholm/college_score_organizer.git)**
    - **Description**: Basic Django WebApp for automating monthly duty rosters
-   - **Tech Stack**: Python, Django, HTML
+   - **Tech Stack**: Python, Django
    - **Features**:
      - Import Morning Report from Excel
      - Works around days individuals cannot stand duty
