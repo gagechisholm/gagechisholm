@@ -1,7 +1,7 @@
 # Hi, I'm Gage 👋
 
 I’m a developer who enjoys solving problems and building tools that make life easier.  
-This GitHub is where I experiment, learn, and ship projects—ranging from automation scripts to full-stack apps.
+This GitHub is where I experiment, learn, and ship projects ranging from automation scripts to full-stack apps.
 
 ---
 
