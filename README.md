@@ -7,11 +7,30 @@ This GitHub is where I experiment, learn, and ship projects ranging from automat
 
 ## Tech Stack
 
-- **Languages**: Python, JavaScript  
-- **Web**: HTML, CSS, Vue.js  
-- **Frameworks**: Django, Flask, Selenium, Bootstrap, Tkinter  
-- **Databases**: MySQL, PostgreSQL  
-- **Tools**: Git, GitHub, VS Code, Heroku  
+**Languages**
+- Python
+- JavaScript
+- CSS
+
+**Frameworks, Libraries, and Runtimes**
+- React (Library)
+- Vue.js (Framework)
+- Django (Framework)
+- Flask (Framework)
+- Node.js (Runtime)
+- Bootstrap (CSS Framework)
+
+**Databases**
+- MySQL
+- PostgreSQL
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Heroku
+- Selenium
+- Tkinter
 
 ---
 
