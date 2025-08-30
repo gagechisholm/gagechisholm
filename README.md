@@ -1,11 +1,11 @@
-# Hi, I'm Gage 👋
+# Hi, I'm Gage
 
 I’m a developer who enjoys solving problems and building tools that make life easier.  
 This GitHub is where I experiment, learn, and ship projects ranging from automation scripts to full-stack apps.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Languages**: Python, JavaScript  
 - **Web**: HTML, CSS, Vue.js  
@@ -15,7 +15,7 @@ This GitHub is where I experiment, learn, and ship projects ranging from automat
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Django & REST APIs  
 - Frontend architecture with Vue.js  
@@ -53,20 +53,20 @@ Django web app for automating monthly duty rosters.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gagechisholm&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email**: [gagesmicrosoft@gmail.com](mailto:gagesmicrosoft@gmail.com)  
 - **Instagram**: [@gagechisholm](https://www.instagram.com/gagechisholm/)   
 
 ---
 
-## 👨‍💻 Connect
+## Connect
 
 Feel free to fork, open issues, or reach out if you’d like to collaborate. Always down to build something cool.  
 
