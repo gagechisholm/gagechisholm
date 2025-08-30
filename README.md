@@ -1,67 +1,55 @@
-# Hi there, I'm Gage 👋
+# Hi, I'm Gage 👋
 
-<h5>I just do this for fun yo :)</h5>
-Welcome to my GitHub profile! I enjoy tackling complex problems and always strive to improve my skills and knowledge.
-
----
-
-## 🛠️ Technologies & Tools
-
-I'm proficient in the following technologies and tools:
-
-- **Languages**: Python, JavaScript
-- **Web Development**: HTML, CSS, Vue.js
-- **Database**: MySQL, PostgreSQL
-- **Tools & Platforms**: Git, VS Code, Heroku
-- **Frameworks**: Django, Vue.js, Selenium (for testing), Bootstrap, Tkinter
-- **Version Control**: Git, GitHub
+I’m a developer who enjoys solving problems and building tools that make life easier.  
+This GitHub is where I experiment, learn, and ship projects—ranging from automation scripts to full-stack apps.
 
 ---
 
-## 🌱 What I'm currently learning
+## 🛠️ Tech Stack
 
-- Django and building REST APIs
-- Vue.js
-- Always learning random stuff
+- **Languages**: Python, JavaScript  
+- **Web**: HTML, CSS, Vue.js  
+- **Frameworks**: Django, Flask, Selenium, Bootstrap, Tkinter  
+- **Databases**: MySQL, PostgreSQL  
+- **Tools**: Git, GitHub, VS Code, Heroku  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Django & REST APIs  
+- Frontend architecture with Vue.js  
+- Scaling personal projects into production apps  
 
 ---
 
 ## 🔧 Projects
 
-Here are some of my projects:
+### [Instagram-Follow-Scraper](https://github.com/gagechisholm/Instagram-Follow-Scraper.git)
+Scrapes follower/following data from a target account and highlights changes over time.  
+**Stack:** Python, Selenium  
+**Highlights:** Tracks followers, posts, and tagged photos.  
 
-### 1. **[Instagram-Follow-Scraper](https://github.com/gagechisholm/Instagram-Follow-Scraper.git)**
-   - **Description**: Instagram bot that scrapes follower/following data from a target user, then tells you what data has changed since it was ran previously.
-   - **Tech Stack**: Python, Selenium
-   - **Features**:
-     - Track Followers/Following
-     - Track Post Count/Pictures
-     - Track Tagged Posts
+---
 
-### 2. **[Gages-Stock-Bot](https://github.com/gagechisholm/Gages-Stock-Bot.git)**
-   - **Description**: Discord Bot that tracks stock prices
-   - **Tech Stack**: Python, Flask
-   - **Features**:
-     - Users can set alerts on chat when stock raises or drops by certain %
-     - Users can add/remove/view stocks from tracking list in discord
-     - Users can ask for the current price of any stock
-     - Front end Flask server log ready to deploy
+### [Gages-Stock-Bot](https://github.com/gagechisholm/Gages-Stock-Bot.git)
+Discord bot that monitors stock prices and sends real-time alerts.  
+**Stack:** Python, Flask  
+**Highlights:** User-defined alerts, stock tracking, deploy-ready Flask frontend.  
 
-### 3. **[college_score_organizer](https://github.com/gagechisholm/college_score_organizer.git)**
-   - **Description**: Basic local app to organizies grade reports from Cengage training platform
-   - **Tech Stack**: Python, Tkinter
-   - **Features**:
-     - Imports Reports
-     - Sorts Reports by Grade
-     - Organizes Reports
+---
 
-### 4. **[Auto_Roster](https://github.com/gagechisholm/college_score_organizer.git)**
-   - **Description**: Basic Django WebApp for automating monthly duty rosters
-   - **Tech Stack**: Python, Django
-   - **Features**:
-     - Import Morning Report from Excel
-     - Works around days individuals cannot stand duty
-     - Will not double assign duty without giving 2 day period in between
+### [college_score_organizer](https://github.com/gagechisholm/college_score_organizer.git)
+Local app for organizing Cengage grade reports.  
+**Stack:** Python, Tkinter  
+**Highlights:** Imports reports, sorts by grade, organizes for quick reference.  
+
+---
+
+### [Auto_Roster](https://github.com/gagechisholm/college_score_organizer.git)
+Django web app for automating monthly duty rosters.  
+**Stack:** Python, Django  
+**Highlights:** Imports Excel reports, manages scheduling conflicts, enforces rest periods.  
 
 ---
 
@@ -71,22 +59,17 @@ Here are some of my projects:
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 
-- **LinkedIn**: ([null])
-- **Email**: [Gage Chisholm](gagesmicrosoft@gmail.com)
-- **Instagram**: [@gagechisholm](https://www.instagram.com/gagechisholm/)
-
----
-
-## 👨‍💻 Let's Connect!
-
-Feel free to check out my repositories, fork them, or create issues if you’d like to collaborate! I’m always open to learning new things and working on exciting projects.
+- **Email**: [gagesmicrosoft@gmail.com](mailto:gagesmicrosoft@gmail.com)  
+- **Instagram**: [@gagechisholm](https://www.instagram.com/gagechisholm/)   
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+## 👨‍💻 Connect
+
+Feel free to fork, open issues, or reach out if you’d like to collaborate. Always down to build something cool.  
 
 ---
 
-Thank you for visiting my GitHub profile! 😄
+> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
