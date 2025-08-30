@@ -23,7 +23,7 @@ This GitHub is where I experiment, learn, and ship projects ranging from automat
 
 ---
 
-## 🔧 Projects
+## Projects
 
 ### [Instagram-Follow-Scraper](https://github.com/gagechisholm/Instagram-Follow-Scraper.git)
 Scrapes follower/following data from a target account and highlights changes over time.  
