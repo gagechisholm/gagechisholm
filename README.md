@@ -199,7 +199,7 @@ The roadmap continues into CySA+, BTL1, and Microsoft SC-200.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gagechisholm&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="./profile/stats.svg" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=gagechisholm&hide_border=true&theme=transparent" />
 
