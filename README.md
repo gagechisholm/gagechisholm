@@ -139,7 +139,7 @@ Includes usage telemetry, monetization, automated reporting, AI-generated player
 
 <br>
 
-### Chisels & Bits Shader Compatibility Patch
+### Chisels & Bits Shader Compatibility Patch (1.2k Downloads)
 
 [![Repository](https://img.shields.io/badge/GitHub-chisels--bits--shader--compat-181717?style=flat-square\&logo=github)](https://github.com/gagechisholm/chisels-bits-shader-compat)
 
