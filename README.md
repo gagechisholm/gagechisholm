@@ -21,7 +21,8 @@ role       U.S. Marine Corps Sergeant
 work       communications systems and network operations
 focus      blue team security, detection engineering, network security
 building   detections, automation, production software
-studying   CCNA | Network+ | Security+
+certified  CompTIA Security+
+studying   CCNA | Network+
 ```
 
 I work in military communications and network operations and am transitioning into cybersecurity.
@@ -183,7 +184,7 @@ This one was less about Minecraft and more about digging through third-party cod
 
 ![CCNA](https://img.shields.io/badge/CCNA-IN_PROGRESS-1BA0D7?style=for-the-badge\&logo=cisco\&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-IN_PROGRESS-C8202F?style=for-the-badge)
-![Security+](https://img.shields.io/badge/Security%2B-NEXT-C8202F?style=for-the-badge)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-CERTIFIED-C8202F?style=for-the-badge)
 
 </div>
 
